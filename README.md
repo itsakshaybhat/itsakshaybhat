@@ -8,6 +8,7 @@
   </a>
 </div>
 
+<!--
 <div align="center">
   <table>
     <tr>
@@ -23,6 +24,7 @@
     </tr>
   </table>
 </div>
+-->
 
 <br/>
 
@@ -45,14 +47,6 @@ const akshay = {
     "📘 Learning TypeScript & Next.js",
     "🐍 Python & Django Full Stack Development",
   ],
-
-  achievements: {
-    projects    : "4+",
-    techStack   : "10+",
-    linesOfCode : "Growing daily 📈",
-  },
-
-  openTo: ["Full-time", "Node.js Developer Roles"],
 };
 ```
 
@@ -82,14 +76,14 @@ const akshay = {
 ### ⚙️ Backend & Runtime
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastify" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,ts" />
 </div>
 
 <br/>
 
 #### 🗄️ Database
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle" />
 </div>
 
 </td>
@@ -108,7 +102,7 @@ const akshay = {
 
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
@@ -126,6 +120,7 @@ const akshay = {
 
 <br/>
 
+<!--
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="35" height="35" /> Featured Projects
 
 ---
@@ -140,12 +135,12 @@ const akshay = {
 >
 > A production-ready REST API built with Node.js, Express and MongoDB implementing clean separation of concerns.
 
-#### 🚀 Key Highlights:
-- 🏗️ **MVC Architecture** — Models, Controllers, Routes, Middleware
-- 👤 **User Endpoints** — GET, POST, PATCH, DELETE
-- 🔒 **Request Logging Middleware** — tracks all API calls
-- 🧪 **Mock Data** — ready for testing with MOCK_DATA.json
-- 🗄️ **MongoDB** — NoSQL database with Mongoose ODM
+####  Key Highlights:
+-  **MVC Architecture** — Models, Controllers, Routes, Middleware
+-  **User Endpoints** — GET, POST, PATCH, DELETE
+-  **Request Logging Middleware** — tracks all API calls
+-  **Mock Data** — ready for testing with MOCK_DATA.json
+-  **MongoDB** — NoSQL database with Mongoose ODM
 
 #### 🛠️ Tech Stack:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -157,11 +152,8 @@ const akshay = {
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="150" />
-
   <br/><br/>
-
   [![View Code](https://img.shields.io/badge/💻_View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshay-cloud-dev/rest-api-project)
-
 </div>
 
 </td>
@@ -178,11 +170,8 @@ const akshay = {
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="150" />
-
   <br/><br/>
-
   [![View Code](https://img.shields.io/badge/💻_View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshay-cloud-dev/cpu-benchmark)
-
 </div>
 
 </td>
@@ -234,11 +223,8 @@ const akshay = {
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="150" />
-
   <br/><br/>
-
   [![View Code](https://img.shields.io/badge/💻_View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshay-cloud-dev/webpage-application)
-
 </div>
 
 </td>
@@ -255,11 +241,8 @@ const akshay = {
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="150" />
-
   <br/><br/>
-
   [![View Code](https://img.shields.io/badge/💻_View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshay-cloud-dev/Personal_Expense_Tracker)
-
 </div>
 
 </td>
@@ -283,9 +266,9 @@ const akshay = {
 </td>
 </tr>
 </table>
+-->
 
-<br/>
-
+<!--
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" height="35" /> GitHub Analytics
 
 <div align="center">
@@ -308,14 +291,15 @@ const akshay = {
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshay-cloud-dev&bg_color=0d1117&color=00C896&line=00C896&point=FF9554&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
+-->
 
-<br/>
-
+<!--
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="35" height="35" /> Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akshay-cloud-dev&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies" />
 </div>
+-->
 
 <br/>
 
@@ -366,6 +350,8 @@ const akshay = {
 
   <br/><br/>
 
+  <!--
   <img src="https://komarev.com/ghpvc/?username=akshay-cloud-dev&style=for-the-badge&color=00C896&label=PROFILE+VIEWS" alt="Profile Views" />
+  -->
 
 </div>
