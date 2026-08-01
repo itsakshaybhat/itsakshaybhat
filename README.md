@@ -59,7 +59,7 @@ const akshay = {
 
 <div align="center">
 
-### 📫 Reach Me: [linkedin.com/in/itsakshaybhat](On LinkedIn)
+### 📫 Reach Me: [On LinkedIn](linkedin.com/in/itsakshaybhat)
 
 </div>
 
