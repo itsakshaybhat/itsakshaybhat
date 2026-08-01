@@ -45,7 +45,7 @@ const akshay = {
     "🚀 Building REST APIs with Node.js & Express",
     "⚡ High-performance backends with Fastify",
     "📘 Learning TypeScript & Next.js",
-    "🐍 Python & Django Full Stack Development",
+    "🚩 React & Node.js Full Stack Development",
   ],
 };
 ```
